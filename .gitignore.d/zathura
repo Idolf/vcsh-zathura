@@ -1,0 +1,6 @@
+*
+!/.gitignore.d
+!/.gitignore.d/zathura
+!/.config
+!/.config/zathura
+!/.config/zathura/zathurarc
